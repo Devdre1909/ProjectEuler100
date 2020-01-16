@@ -29,3 +29,12 @@ The prime factors of 13195 are 5, 7, 13 and 29.
 What is the largest prime factor of the given number?
 
 Link to file [https://github.com/Devdre1909/ProjectEuler100/blob/master/p3-Largest-prime-factor.js]
+
+## Day 4 (Jan 16, 2020)
+```p3-Largest-palindrome-product```
+
+A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
+
+Find the largest palindrome made from the product of two n-digit numbers.
+
+Link to file [https://github.com/Devdre1909/ProjectEuler100/blob/master/p4-Largest-palindrome-product.js]
